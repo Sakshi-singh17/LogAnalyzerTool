@@ -16,6 +16,13 @@ public class LogAnalyzer {
         this.filePath=filePath;
     }
 
+    //getter for logEntries
+
+
+    public List<LogEntry> getLogEntries() {
+        return logEntries;
+    }
+
     //reading and parsing logs into objects
     public void loadlogs() {
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
