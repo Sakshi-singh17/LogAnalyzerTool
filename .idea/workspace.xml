@@ -9,24 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fad0ea6-50ed-4d0c-8abe-e023de2f2e5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/LogAnalyzerTool_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javafx-swt.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javafx.base.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javafx.controls.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javafx.fxml.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javafx.graphics.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javafx.media.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javafx.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javafx.swing.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javafx.web.jar" afterDir="false" />
+    <list default="true" id="4fad0ea6-50ed-4d0c-8abe-e023de2f2e5c" name="Changes" comment="&quot;screenshots added&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LogAnalyzerTool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LogAnalyzerTool.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot 2025-05-30 011444.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/preview.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot 2025-05-30 011515.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/importing_files.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot 2025-05-30 011545.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/logs.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/sample.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sample.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +87,31 @@
       <option name="presentableId" value="Default" />
       <updated>1743782234503</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;screenshots added&quot;">
+      <option name="closed" value="true" />
+      <created>1754239837124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754239837124</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;screenshots added&quot;">
+      <option name="closed" value="true" />
+      <created>1754239866991</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754239866991</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;screenshots added&quot;">
+      <option name="closed" value="true" />
+      <created>1754239991143</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754239991143</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,5 +130,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;screenshots added&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;screenshots added&quot;" />
   </component>
 </project>
