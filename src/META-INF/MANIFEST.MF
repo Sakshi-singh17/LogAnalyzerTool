@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: LogAnalyzerApp
+Class-Path: javafx-swt.jar javafx.web.jar javafx.base.jar javafx.fxml.ja
+ r javafx.media.jar javafx.swing.jar javafx.controls.jar javafx.graphics
+ .jar javafx-swt.jar javafx.web.jar javafx.base.jar javafx.fxml.jar java
+ fx.media.jar javafx.swing.jar javafx.controls.jar javafx.graphics.jar
+
