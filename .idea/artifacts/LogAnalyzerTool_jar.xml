@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="LogAnalyzerTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LogAnalyzerTool_jar</output-path>
+    <root id="root">
+      <element id="archive" name="LogAnalyzerTool.jar">
+        <element id="module-output" name="LogAnalyzerTool" />
+      </element>
+      <element id="library" level="project" name="lib" />
+      <element id="library" level="project" name="javafx-sdk-21.0" />
+    </root>
+  </artifact>
+</component>
