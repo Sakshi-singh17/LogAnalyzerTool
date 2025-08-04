@@ -3,6 +3,16 @@
 A beginner-friendly **JavaFX-based desktop application** to analyze and gain insights from log files. Built using **Core Java** and **JavaFX**, the tool provides an interactive user interface to explore, filter, and visualize log data efficiently.
 
 ---
+## 🖼️ Screenshots
+
+### 📂 Dashboard View
+![Dashboard](./screenshots/preview.png)
+
+### 🔍 Displaying Logs
+![Search](./screenshots/logs.png)
+
+### 📊 Extracting Log Files
+![Frequent Errors](./screenshots/importing_files.png)
 
 ## 🌟 Features
 
