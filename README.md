@@ -77,7 +77,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Sakshi Amit Singh**  
 🎓 Computer Science Graduate | 💻 Java Developer | Software Engineer 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://github.com/Sakshi-singh17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/sakshi-amit-singh)
 
 
 ---
